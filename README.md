@@ -1,7 +1,5 @@
 # DigiVyaapari
 
-<img width="596" height="580" alt="image" src="https://github.com/user-attachments/assets/ae9a0c5f-886e-4693-8846-0ec3f8852837" />
-
 ## ❓ Problem Statement
 Local Hawkers, Street Vendors and Micro Entrepreneurs often remain  digitally invisible while struggling with new technologies like UPI. They are also unaware of government’s MSME schemes and guidance to apply for these advantages. Many struggle with understanding the guidelines due to language barriers.
 
@@ -49,20 +47,20 @@ Local Hawkers, Street Vendors and Micro Entrepreneurs often remain  digitally in
 5. Vendors can request the creation of QR codes or promotional materials.
 
 ## ⌞ ⌝ Screenshots:
-1. Building the Agent:
+**1. Building the Agent:**
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/7caaea9b-edb9-43de-8993-e47b63fb232d" />
-2. Adding the vector files:
+**2. Adding the vector files:
 <img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/2636e2f1-b890-4fbc-939c-b791e3a352bc" />
 3. Adding the necessary tools:
 <img width="921" height="752" alt="image" src="https://github.com/user-attachments/assets/beb2a5c9-7700-4f86-9ebe-de50eb38d13a" />
-4. Add the instructtions:
+4. Add the instructions:
 <img width="1754" height="751" alt="image" src="https://github.com/user-attachments/assets/a0fca47f-3b33-4fad-9165-cf1ac71b5273" />
 5. Preview the model:
 <img width="1382" height="749" alt="image" src="https://github.com/user-attachments/assets/1b42fd25-fdb5-4c7e-b54f-31685481f8d1" />
 <img width="1258" height="766" alt="image" src="https://github.com/user-attachments/assets/1f613697-b0bd-41b3-9469-ddcb68b0ab04" />
 <img width="1394" height="829" alt="image" src="https://github.com/user-attachments/assets/52db56bc-3bc8-4a10-a5f8-9b187c118248" />
 6. Deploy the agent in IBM Cloud:
-<img width="1247" height="618" alt="image" src="https://github.com/user-attachments/assets/e6bfba18-0dcc-425d-ac50-9a5908b31012" />
+<img width="1247" height="618" alt="image" src="https://github.com/user-attachments/assets/e6bfba18-0dcc-425d-ac50-9a5908b31012" />**
 
 ## ✅ Conclusion:
 To make digital entrepreneurship accessible and economical for informal businesses, the hybrid approach of simplicity and personalized agent support will provide value to assist entrepreneurs and informal vendors: how to grow their hyperlocal business, how and where to make repayments in relation to digital transactions, how to access government schemes and policies, and how to market. The agent uses sophisticated artificial intelligence via Retrieval-Augmented Generation (RAG) and Natural Language Processing (NLP) to create context and meaningful insights. 
